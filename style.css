@@ -20,7 +20,7 @@ body {
 .logo {
     height: 50px;
     width: 140px;
-    margin-left: 20px;
+    margin-left: 70px;
 }
 
 .navbar {
@@ -67,12 +67,12 @@ body {
 .number {
     position: absolute;
     top: 3.5%;
-    right: 3.5%;
+    right: 7.5%;
 }
 
 .search-part {
     position: absolute;
-    top: 20%;
+    top: 16%;
     left: 2%;
 }
 
@@ -102,7 +102,7 @@ body {
 
 .letter-section {
     position: absolute;
-    top: 25%;
+    top: 22%;
     left: 3%;
 }
 
@@ -118,7 +118,7 @@ body {
 
 .sentence {
     position: absolute;
-    top: 51%;
+    top: 45%;
     left: 3.2%;
 }
 
@@ -131,7 +131,7 @@ body {
 
 .add {
     position: absolute;
-    top: 60%;
+    top: 55%;
     left: 2%;
 }
 
@@ -155,8 +155,8 @@ body {
 
 .plus {
     position: absolute;
-    top: 61%;
-    left: 20%;
+    top: 55.5%;
+    left: 17%;
 }
 
 .plus-one {
@@ -199,7 +199,7 @@ body {
 
 .middle {
     position: absolute;
-    top: 70%;
+    top: 65%;
     left: 3.2%;
     display: flex;
     align-items: center;
@@ -228,7 +228,7 @@ body {
 
 .middle2 {
     position: absolute;
-    top: 70%;
+    top: 65%;
     left: 14%;
     display: flex;
     align-items: center;
@@ -242,6 +242,7 @@ body {
 .fire-circle {
     width: 20px;
     height: 20px;
+    padding: 2px;
 }
 
 .fire-2 {
@@ -251,7 +252,7 @@ body {
 
 .middle3 {
     position: absolute;
-    top: 70%;
+    top: 65%;
     left: 24%;
     display: flex;
     align-items: center;
@@ -265,7 +266,7 @@ body {
 .heart-circle {
     width: 20px;
     height: 18px;
-    padding: 2px;
+    padding: 3px;
     margin-top: 2px;
 }
 
@@ -276,12 +277,14 @@ body {
 
 .footer{
     position: absolute;
-    top: 80%;
-    left: 3.2%;
+    top: 73.8%;
+    left: 3%;
+    display: flex;
+    align-items: center;
 }
 .footer-1{
     height: 180px;
-    width: 1270px;
+    width: 1400px;
     background-color: #1C6042;
     border-radius: 25px;
 }
@@ -304,3 +307,125 @@ color: white
   background-color: #CBB340;
   margin-top: 8px;
 }
+
+.arrow {
+    position: absolute;
+    top: 60%;
+    left: 4%;
+    display: flex;
+    gap: 20px;
+}
+
+.part-1{
+       background-color: #FBF5EC;
+    height: 156px;
+    width: 330px;
+    border-radius: 20px;
+    position: absolute;
+    top: 7%;
+    left: 16%;
+}
+
+.part-2{
+    background-color: #FBF5EC;
+    height: 156px;
+    width: 330px;
+    border-radius: 20px;
+    position: absolute;
+    top: 1%;
+    left: 120%;
+}
+
+.part-3{
+       background-color: #FBF5EC;
+    height: 156px;
+    width: 330px;
+    border-radius: 20px;
+    position: absolute;
+    top: 1%;
+    left: 240%;
+}
+
+.black{
+position: absolute;
+top: 15%;
+left: 40%;
+font-size: 15px;
+font-family: sans-serif;
+}
+
+.stars{
+position: absolute;
+top: 12%;
+left: 39%;
+width: 90px;
+height: 90px;
+}
+
+.rating{
+position: absolute;
+top: 35%;
+left: 72%;
+font-size: 14px;
+font-family: sans-serif;
+}
+
+.dollar{
+position: absolute;
+top: 52%;
+left: 40%;
+font-size: 14px;
+font-family: sans-serif;
+}
+
+.button{
+    width: 150px;
+    height: 30px;
+    background-color: #D8222F;
+    border-radius: 30px;
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    display: flex;
+    align-items: center;
+}
+
+
+.rating-1{
+position: absolute;
+top: 35%;
+left: 72%;
+font-size: 14px;
+font-family: sans-serif;
+}
+
+.rating-2{
+position: absolute;
+top: 35%;
+left: 72%;
+font-size: 14px;
+font-family: sans-serif;
+}
+
+.dollar-1{
+position: absolute;
+top: 52%;
+left: 40%;
+font-size: 14px;
+font-family: sans-serif;
+}
+
+.dollar-2{
+position: absolute;
+top: 52%;
+left: 40%;
+font-size: 14px;
+font-family: sans-serif;
+}
+
+.main-part{
+    position: absolute;
+    top: 10%;
+    left: 38%;
+}
+
